@@ -1,7 +1,7 @@
-# Werewolf Bot
+# Poll Bot
 > Performs heavy-lifting on the discord _Werewolves_ server
 
-[![Build Status](https://travis-ci.org/werewolves-devs/Werewolf_Bot.svg?branch=master)](https://travis-ci.org/werewolves-devs/Werewolf_Bot)
+[![Build Status](https://travis-ci.org/werewolves-devs/Poll_Bot.svg?branch=master)](https://travis-ci.org/werewolves-devs/Poll_Bot)
 
 A bot for the werewolves server.
 
@@ -10,7 +10,7 @@ A bot for the werewolves server.
 All Git-supported OSes:
 
 ```sh
-git clone https://github.com/werewolves-devs/werewolf-bot
+git clone https://github.com/werewolves-devs/poll-bot
 ```
 Can be run from the cloned directory.
 
@@ -29,7 +29,7 @@ pytest
 
 ## Contributing
 
-1. Fork it (<https://github.com/werewolves-devs/Werewolf_Bot/fork>)
+1. Fork it (<https://github.com/werewolves-devs/Poll_Bot/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
